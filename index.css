@@ -1,0 +1,39 @@
+h1 {
+    font-size: 40px;
+    color: blue;
+    margin-bottom: 5px;
+    margin-left: 185px;
+}
+p {
+    font-size: 20px;
+    color: rgb(198, 12, 192);
+    margin-left: 260px;
+}
+button {
+    font-size: 30px;
+    color: blueviolet;
+    margin-left: 290px;
+}
+img{
+    margin-left: 250px;
+}
+h2{
+    color: rgb(194, 3, 3);
+    margin-left: 280px;
+}
+h3{
+    font-size: 23px;
+    margin-left: 220px;
+}
+div{
+    
+}
+h4{
+    font-size: 60px;
+    color: brown;
+    margin-left: 150px;
+}
+h5{
+    font-size: 35px;
+    color: rgb(144, 7, 7);
+}
