@@ -1,39 +1,52 @@
 h1 {
-    font-size: 40px;
+    font-size: 70px;
     color: blue;
     margin-bottom: 5px;
-    margin-left: 185px;
+    margin-left: 175px;
 }
 p {
-    font-size: 20px;
+    font-size: 60px;
     color: rgb(198, 12, 192);
-    margin-left: 260px;
+    margin-left: 250px;
 }
 button {
-    font-size: 30px;
+    font-size: 120px;
     color: blueviolet;
-    margin-left: 290px;
+    margin-left: 135px;
+    margin-top: 150px;
 }
 img{
-    margin-left: 250px;
+    margin-left: 200px;
+    margin-top: 100px;
 }
 h2{
     color: rgb(194, 3, 3);
-    margin-left: 280px;
+    margin-left: 310px;
+    font-size: 50px;
+    margin-top: 80px;
 }
 h3{
-    font-size: 23px;
-    margin-left: 220px;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 30px;
+    
 }
 div{
     
 }
 h4{
-    font-size: 60px;
-    color: brown;
-    margin-left: 150px;
+    font-size: 100px;
+    color: rgb(219, 11, 11);
+    margin-left: 50px;
 }
 h5{
     font-size: 35px;
     color: rgb(144, 7, 7);
+}
+a{
+    font-size: 60px;
+    color: rgb(247, 2, 2)
+}
+body{
+    background: ;
 }
